@@ -11,6 +11,9 @@ body{
     background-color:red;
     
 }
+body{
+    overflow: hidden;
+}
 @font-face {
     font-family: zebrawood;
     src: url(../Zebrawood-Regular.otf);
